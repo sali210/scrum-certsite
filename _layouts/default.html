@@ -11,6 +11,7 @@
     {% include contact_static.html %}
     {% elsif site.contact == "disqus" %}
     {% include contact_disqus.html %}
+    {% elsif site.contact == "none" %}
     {% else %}
     {% include contact.html %}
     {% endif %}

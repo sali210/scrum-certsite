@@ -4,7 +4,7 @@ email: sali21@ggc.edu
 url: https://github.com/sali210/scrum-certsite
 description: "This website is made to help students find the right scrum certifications"
 keywords: "scrum, GGC, certifications"
-skills: "Web Developer - Project Manager - Agile"
+skills: "Web Developer - Project Manager - Agile - Scrum"
 meta_author: Ali Sandy
 
 # Google webmaster tools
@@ -14,10 +14,11 @@ google_verify:
 bing_verify:
 
 # Contact form:
+# - none : hide the contact form
 # - static : pass through formspree.io to validate email sending
 # - disqus : replace contact form by disqus thread
 # - comment the line below if you want to stick with the default PHP contact form
-contact: static
+contact: none
 
 
 
