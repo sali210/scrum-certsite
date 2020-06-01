@@ -498,6 +498,12 @@ color: #fdfafa;
     flex-direction: column;
     justify-content: space-between;
 }
+footer a{
+    color: #ffffff;
+}
 
-
+footer a:hover{
+    color: #ffffff;
+    text-decoration: underline;
+}
 
