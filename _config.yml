@@ -4,7 +4,7 @@ email: sali21@ggc.edu
 url: https://github.com/sali210/scrum-certsite
 description: "This website is made to help students find the right scrum certifications"
 keywords: "scrum, GGC, certifications"
-skills: "Web Developer - Project Manager - Agile - Scrum"
+skills: "Project Manager - Agile - Scrum"
 meta_author: Ali Sandy
 
 # Google webmaster tools
@@ -34,8 +34,8 @@ color:
 footer:
   copyright: Sandy Ali
   location: Atlanta, Georgia
-  social: GGC 
-  credits: ITEC 4400
+  date: 06-01-2020 
+  credits: Scrum.org
 
 
 
