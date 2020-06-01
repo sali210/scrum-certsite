@@ -482,9 +482,21 @@ color: #fdfafa;
 }
 #portfolio .opportunities{
     color:  #12618a;
+    margin-top: 1em;
+    display: inline-block;
 }
 #portfolio .jobs{
     color:  #12618a;
+}
+
+#portfolio .portfolio-item {
+    right: 0;
+    margin: 0 0 15px;
+    text-align: center;
+    height: 380px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
 }
 
 
