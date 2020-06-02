@@ -489,15 +489,6 @@ color: #fdfafa;
     color:  #12618a;
 }
 
-#portfolio .portfolio-item {
-    right: 0;
-    margin: 0 0 15px;
-    text-align: center;
-    height: 380px;
-    display: flex;
-    flex-direction: column;
-    justify-content: space-between;
-}
 footer a, footer a:visited{
     color: #ffffff;
 }
@@ -505,5 +496,27 @@ footer a, footer a:visited{
 footer a:hover{
     color: #ffffff;
     text-decoration: underline;
+}
+.psm-container {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+}
+
+#portfolio .portfolio-item {
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    flex-grow: 1;
+    flex-basis: 0;
+    padding: 1em;
+    background-color: pink;
+    justify-content: space-between;
+}
+
+#portfolio img {
+    margin-bottom: 1em;
+    margin-left: auto;
+    margin-right: auto;
 }
 
