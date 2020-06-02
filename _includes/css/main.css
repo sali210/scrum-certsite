@@ -247,10 +247,6 @@ section.success {
     z-index: 2;
 }
 
-#portfolio img {
-    margin: auto;
-    margin-bottom: 1em;
-}
 
 #portfolio .description{
     color: black;
@@ -510,7 +506,6 @@ footer a:hover{
     flex-grow: 1;
     flex-basis: 0;
     padding: 1em;
-    background-color: pink;
     justify-content: space-between;
 }
 
