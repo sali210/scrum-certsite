@@ -94,6 +94,9 @@ header .container {
 header img {
     display: block;
     margin: 0 auto 20px;
+    max-width: 9em;
+    margin: auto;
+    float: left;
 }
 
 header .intro-text .name {
