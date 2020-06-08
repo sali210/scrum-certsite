@@ -33,8 +33,8 @@ color:
 # Footer settings
 footer:
   copyright: Sandy Ali
-  social: June,2020 
-  credits: Source (Scrum.org)
+  social: Source (Scrum.org)
+  #-credits: Source (Scrum.org)
 
 
 
