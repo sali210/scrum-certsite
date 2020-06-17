@@ -8,7 +8,7 @@ alt: image-alt
 project-date: May 2020
 description: "PSM II, achieving certification, demonstrate an advanced level of Scrum mastery. Price $250.00"
 opportunities: "Demonstrates a higher level of scrum mastery, providing more managerial scrum positions"
-jobs: "(Chief of Staff, Software Engineering Manager, Scrummaster)"
+jobs: <a href="https://www.linkedin.com/jobs/search/?geoId=103644278&keywords=agile%20coachChief%20of%20Staff&location=United%20States" target="_blank">Chief of Staff</a>, <a href="https://www.linkedin.com/jobs/search/?geoId=103644278&keywords=Software%20Engineering&location=United%20States" target="_blank">Software Engineering Manager</a>, <a href="https://www.linkedin.com/jobs/search/?geoId=103644278&keywords=scrum%20master&location=United%20States" target="_blank">Scrum Master)</a>
 link: "https://www.scrum.org/professional-scrum-master-ii-certification"
 linktext: "More info"	
 ---
