@@ -8,7 +8,7 @@ alt: image-alt
 project-date: May 2020
 description: "PSM I, achieving certification, demonstrate a fundamental level of Scrum mastery. Price: $150.00"
 opportunities: "Opens the door to scrum jobs"
-jobs: "(<a href="https://www.linkedin.com/jobs/search/?keywords=agile%20coach">Agile Coach,</a> Project Manager, Business Analyst)"
+jobs: "(Agile Coach, Project Manager, Business Analyst)"
 link: "https://www.scrum.org/professional-scrum-master-i-certification"
 linktext: "More info"	
 ---
