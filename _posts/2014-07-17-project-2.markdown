@@ -10,5 +10,5 @@ description: "PSM II, achieving certification, demonstrate an advanced level of 
 opportunities: "Demonstrates a higher level of scrum mastery, providing more managerial scrum positions"
 jobs: "(Chief of Staff, Software Engineering Manager, Scrummaster)"
 link: "https://www.scrum.org/professional-scrum-master-ii-certification"
-linktext: "Click here for more information"	
+linktext: "More info"	
 ---
