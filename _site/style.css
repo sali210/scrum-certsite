@@ -468,3 +468,9 @@ footer .footer-below {
     transform: translateZ(0);
     -webkit-transform: translateZ(0);
 }
+header img {
+    display: block;
+    margin: 0 auto 20px;
+    max-width: 8em !important;
+    /* margin: auto; */
+    /* float: left;
