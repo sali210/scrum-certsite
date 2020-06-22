@@ -99,7 +99,6 @@ header img {
     margin: 0 auto 20px;
     max-width: 8em !important;
     margin: auto;
-    float: left;
 }
 
 header .intro-text .name {
@@ -118,7 +117,6 @@ header .intro-text .skills {
 @media(min-width:768px) {
     header .container {
         padding-top: 200px;
-        padding-bottom: 100px;
     }
 
     header .intro-text .name {
@@ -176,9 +174,8 @@ header .intro-text .skills {
 .navbar-inverse {
     border: 0;
 }
-
 section {
-    padding: 100px 0;
+    padding: 50px 0;
 }
 
 section h2 {
