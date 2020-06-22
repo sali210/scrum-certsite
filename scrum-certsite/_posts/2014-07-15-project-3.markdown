@@ -1,0 +1,13 @@
+---
+title: Scrum Certifications
+layout: default
+modal-id: 4
+date: 2020-05-17
+img: circus.png
+alt: image-alt
+project-date: May 2020
+description: "PSM III, achieving certification, demonstrate a distinguished level of Scrum mastery. Price $500.00"
+opportunities: "Only open to those who have passed the first two certifications. Demonstrates the highest certificatable mastery of team and orginization skills, opening the door to any jobs requiring scrum knowledge."
+link: "https://www.scrum.org/professional-scrum-master-iii-certification"
+linktext: "More info"	
+---
