@@ -33,7 +33,7 @@ color:
 # Footer settings
 footer:
   copyright: Sandy Ali
-  social: Source (Scrum.org)
+  social: <a href="https://www.scrum.org/" target="_blank">Source (Scrum.org)</a>
   #-credits: Source (Scrum.org)
 
 
